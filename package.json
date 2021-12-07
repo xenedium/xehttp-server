@@ -1,0 +1,15 @@
+{
+  "name": "xehttp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "DEBUG=1 nodemon server.js"
+  },
+  "author": "xenedium",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
